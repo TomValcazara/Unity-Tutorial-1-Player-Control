@@ -1,22 +1,23 @@
-# 🚗 My First Unity Game Project
+# 🚙✨ Floating Road Car Game  
 
-## 📖 Overview
-In this lesson, you will create your very first game project in **Unity Hub**.  
-You will:
+## 📖 Overview  
+In this Unit, you’ll bring an **Amazing Red Truck** to life on a **floating road among not so fantastic mountains** 🌌.  
+Your mission? Drive side-to-side while avoiding (or sometimes smashing into 🤭) obstacles (mostly barrels, idk, I´ll decide later) along the way.  
 
-- Choose and position a **vehicle** for the player to drive.  
-- Add an **obstacle** for the player to hit or avoid.  
-- Set up a **camera** behind the vehicle for a perfect gameplay view.  
-- Learn to **navigate the Unity Editor** and move confidently in 3D space.  
-- Customize your own **Unity Editor window layout** for efficient editing.  
-
-## 🎯 Project Outcome
-By the end of this project, you will have:
-
-- A **vehicle and obstacle** positioned on the road.  
-- A **camera** perfectly aligned behind the vehicle.  
-- A **custom Unity layout** tailored to your workflow.  
+Along the journey, you’ll:  
+- 🛠️ Get comfortable with the **Unity Editor** and workflow.  
+- 💻 Create your very first **C# scripts**.  
+- 🎮 Program basic **car movement controls** (Easier than getting an actual driver´s license).  
+- ✏️ Declare and tweak **variables** to fine-tune how your car behaves.  
 
 ---
 
-📌 *This project is a hands-on introduction to Unity, designed to help you build familiarity with the editor and 3D navigation while creating a simple playable scene.*
+## 🎯 Project Outcome  
+By the end of this Unit, you’ll be able to:  
+- Call **basic Unity functions**.  
+- Adjust **variables** like `speed` or `turnSpeed` in the Inspector.  
+- Watch your little car zoom down the floating road, dodging obstacles in style 🚗💨.  
+
+---
+
+🌟 *This project is a playful introduction to programming in Unity — simple enough to get started, but fun enough to make you feel like a real game developer!*  
